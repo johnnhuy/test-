@@ -32,8 +32,6 @@ const[data,setData] = useState([])
         
         )
         
-        
-        
 
         )
 
